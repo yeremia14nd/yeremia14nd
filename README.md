@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yeremia14nd
 - 👀 I’m interested in software development, 
-- 🌱 I’m currently learning android, website programming, flutter and java programming
+- 🌱 I’m currently learning android and web development
 - 💞️ I’m looking to collaborate on building website and android app
 - 📫 How to reach me ... twitter: @yerindaumanu
 
