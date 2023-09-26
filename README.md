@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yeremia14nd
 - 👀 I’m interested in software development, 
-- 🌱 I’m currently learning android and web development
-- 💞️ I’m looking to collaborate on building website and android app
+- 🌱 I’m currently learning software engineering and web development
+- 💞️ I’m looking to collaborate on building meaningful app
 - 📫 How to reach me ... twitter: @yerindaumanu
 
 <!---
